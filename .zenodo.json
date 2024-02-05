@@ -1,0 +1,15 @@
+{
+   "title" : "This is just a test",
+   "upload_type" : "dataset",
+   "version" : "0.0.1",
+   "publication_date" : "2024-02-05",
+   "access_right" : "open",
+   "contributors" : [
+      {
+         "affiliation" : "BSC-CNS",
+         "name" : "Miguel Ponce-de-Leon",
+         "type" : "Researcher"
+      }
+   ]
+
+}
